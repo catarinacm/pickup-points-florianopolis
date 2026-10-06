@@ -1,0 +1,15 @@
+atributo;categoria;valor_bruto;escore;n_candidatos;natureza;peso_A;peso_B;fonte
+tipo;supermercado;63% de citacao;1,0;104;derivado;0,0625;0,5208;Firmeza (2021), Figura 23, p. 62 — Supermercados, 63% de citacao
+tipo;agencia_postal;sem percentual;0,8323;17;derivado, por razao com supermercados;0,0625;0,5208;Guarino Neto e Vidal Vieira (2023), Tabela A2: agencia postal 49%, supermercado 62%
+tipo;farmacia;40% de citacao;0,7079;133;derivado;0,0625;0,5208;Firmeza (2021), Figura 23, p. 62 — Farmacias, 40% de citacao
+tipo;conveniencia;37% de citacao;0,6698;106;derivado, por analogia;0,0625;0,5208;Firmeza (2021), Figura 23, p. 62 — Postos de gasolina, 37% de citacao
+tipo;mercado_pequeno;8% de citacao;0,3016;496;derivado, por analogia;0,0625;0,5208;Firmeza (2021), Figura 23, p. 62 — Padarias, 8% de citacao
+disponibilidade;agencia_postal;40,0 h/semana;0,2;17;observado;0,1458;0,0625;"OSM opening_hours, mediana de 15 observacoes; estratificacao validada por Kruskal-Wallis H=42.41, p=3.3e-09 (84 obs.; Dunn (1964) com correcao de Holm-Bonferroni, 4 de 6 pares)"
+disponibilidade;mercado_pequeno;60,0 h/semana;0,437;496;declarado;0,1458;0,0625;"OSM opening_hours, zero observacoes; abaixo de conveniencia, comercio de vizinhanca com horario reduzido; estratificacao validada por Kruskal-Wallis H=42.41, p=3.3e-09 (84 obs.; Dunn (1964) com correcao de Holm-Bonferroni, 4 de 6 pares)"
+disponibilidade;conveniencia;70,0 h/semana;0,5556;106;observado;0,1458;0,0625;"OSM opening_hours, mediana de 15 observacoes; estratificacao validada por Kruskal-Wallis H=42.41, p=3.3e-09 (84 obs.; Dunn (1964) com correcao de Holm-Bonferroni, 4 de 6 pares)"
+disponibilidade;supermercado;98,0 h/semana;0,8874;104;observado;0,1458;0,0625;"OSM opening_hours, mediana de 34 observacoes; estratificacao validada por Kruskal-Wallis H=42.41, p=3.3e-09 (84 obs.; Dunn (1964) com correcao de Holm-Bonferroni, 4 de 6 pares)"
+disponibilidade;farmacia;107,5 h/semana;1,0;133;observado;0,1458;0,0625;"OSM opening_hours, mediana de 20 observacoes; estratificacao validada por Kruskal-Wallis H=42.41, p=3.3e-09 (84 obs.; Dunn (1964) com correcao de Holm-Bonferroni, 4 de 6 pares)"
+acessibilidade;parada_onibus;peso interno 50%;;856;calculado;0,2708;0,1458;OSM highway=bus_stop (limite 800 m) e densidade de cruzamentos da rede caminhavel em 400 m
+acessibilidade;densidade_caminhavel;peso interno 50%;;856;calculado;0,2708;0,1458;OSM highway=bus_stop (limite 800 m) e densidade de cruzamentos da rede caminhavel em 400 m
+seguranca;hierarquia_viaria;peso interno 50%;;856;proxy declarada;0,5208;0,2708;proxy: distancia a via motorway/trunk/primary/secondary/tertiary (limite 400 m) e densidade de estabelecimentos do CNEFE em 400 m — SEM base publica de ocorrencias
+seguranca;densidade_comercial;peso interno 50%;;856;proxy declarada;0,5208;0,2708;proxy: distancia a via motorway/trunk/primary/secondary/tertiary (limite 400 m) e densidade de estabelecimentos do CNEFE em 400 m — SEM base publica de ocorrencias

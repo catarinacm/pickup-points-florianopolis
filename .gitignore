@@ -1,0 +1,9 @@
+# Dados brutos do IBGE: baixar com src/00_baixar_dados_brutos.py
+data/brutos/*
+!data/brutos/LEIA-ME.md
+# Cache de requisicoes do OSMnx
+cache/
+__pycache__/
+.ipynb_checkpoints/
+*.parcial
+.venv/

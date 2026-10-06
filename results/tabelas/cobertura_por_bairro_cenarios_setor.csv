@@ -1,0 +1,1915 @@
+cenario;p;r_m;variante;metrica;CD_BAIRRO;NM_BAIRRO;REGIAO_FUNCIONAL;H;COBERTA;cobertura_pct
+C1;10;800;aj_estimado;euclid;4205407001;Centro;Centro/Sede;148,9482;119,575;80,2796
+C1;10;800;aj_estimado;euclid;4205407002;Agronômica;Centro/Sede;59,0667;37,5879;63,6364
+C1;10;800;aj_estimado;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;2,0608;41,5358
+C1;10;800;aj_estimado;euclid;4205407018;Estreito;Continente;30,6708;15,6089;50,8917
+C1;10;800;aj_estimado;euclid;4205407020;Coqueiros;Continente;42,5766;27,9623;65,6752
+C1;10;800;aj_estimado;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C1;10;800;aj_estimado;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C1;10;800;aj_estimado;euclid;4205407026;Jardim Atlântico;Continente;37,9427;27,3016;71,9548
+C1;10;800;aj_estimado;euclid;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C1;10;800;aj_estimado;euclid;4205407028;Canto;Continente;21,4173;20,2978;94,7729
+C1;10;800;aj_estimado;euclid;4205407029;Capoeiras;Continente;53,6519;47,3324;88,2213
+C1;10;800;aj_estimado;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C1;10;800;aj_estimado;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C1;10;800;aj_estimado;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;28,2029;58,1193
+C1;10;800;aj_estimado;euclid;4205407086;Trindade;Centro/Sede;68,4711;55,124;80,507
+C1;10;800;aj_estimado;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;44,4061;55,3248
+C1;10;800;aj_estimado;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C1;10;800;aj_estimado;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407124;Ingleses Centro;Norte;23,4972;17,9351;76,3287
+C1;10;800;aj_estimado;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407128;Capivari;Norte;82,8735;27,7005;33,425
+C1;10;800;aj_estimado;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C1;10;800;aj_estimado;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407001;Centro;Centro/Sede;148,9482;112,6213;75,6111
+C1;10;800;aj_estimado;walk;4205407002;Agronômica;Centro/Sede;59,0667;13,0431;22,082
+C1;10;800;aj_estimado;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C1;10;800;aj_estimado;walk;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407018;Estreito;Continente;30,6708;5,0526;16,4736
+C1;10;800;aj_estimado;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C1;10;800;aj_estimado;walk;4205407026;Jardim Atlântico;Continente;37,9427;10,8409;28,5718
+C1;10;800;aj_estimado;walk;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C1;10;800;aj_estimado;walk;4205407028;Canto;Continente;21,4173;6,8593;32,0269
+C1;10;800;aj_estimado;walk;4205407029;Capoeiras;Continente;53,6519;24,3628;45,409
+C1;10;800;aj_estimado;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C1;10;800;aj_estimado;walk;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407086;Trindade;Centro/Sede;68,4711;31,4601;45,9465
+C1;10;800;aj_estimado;walk;4205407087;Itacorubi;Centro/Sede;80,2643;26,1858;32,6244
+C1;10;800;aj_estimado;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C1;10;800;aj_estimado;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407128;Capivari;Norte;82,8735;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C1;10;800;aj_estimado;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407001;Centro;Centro/Sede;148,9482;119,575;80,2796
+C1;10;800;aj_unitario;euclid;4205407002;Agronômica;Centro/Sede;59,0667;37,5879;63,6364
+C1;10;800;aj_unitario;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;2,0608;41,5358
+C1;10;800;aj_unitario;euclid;4205407018;Estreito;Continente;30,6708;15,6089;50,8917
+C1;10;800;aj_unitario;euclid;4205407020;Coqueiros;Continente;42,5766;27,9623;65,6752
+C1;10;800;aj_unitario;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C1;10;800;aj_unitario;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C1;10;800;aj_unitario;euclid;4205407026;Jardim Atlântico;Continente;37,9427;27,3016;71,9548
+C1;10;800;aj_unitario;euclid;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C1;10;800;aj_unitario;euclid;4205407028;Canto;Continente;21,4173;20,2978;94,7729
+C1;10;800;aj_unitario;euclid;4205407029;Capoeiras;Continente;53,6519;47,3324;88,2213
+C1;10;800;aj_unitario;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C1;10;800;aj_unitario;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C1;10;800;aj_unitario;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;28,2029;58,1193
+C1;10;800;aj_unitario;euclid;4205407086;Trindade;Centro/Sede;68,4711;55,124;80,507
+C1;10;800;aj_unitario;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;44,4061;55,3248
+C1;10;800;aj_unitario;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C1;10;800;aj_unitario;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407124;Ingleses Centro;Norte;23,4972;17,9351;76,3287
+C1;10;800;aj_unitario;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407128;Capivari;Norte;82,8735;27,7005;33,425
+C1;10;800;aj_unitario;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C1;10;800;aj_unitario;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407001;Centro;Centro/Sede;148,9482;112,6213;75,6111
+C1;10;800;aj_unitario;walk;4205407002;Agronômica;Centro/Sede;59,0667;13,0431;22,082
+C1;10;800;aj_unitario;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C1;10;800;aj_unitario;walk;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407018;Estreito;Continente;30,6708;5,0526;16,4736
+C1;10;800;aj_unitario;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C1;10;800;aj_unitario;walk;4205407026;Jardim Atlântico;Continente;37,9427;10,8406;28,5709
+C1;10;800;aj_unitario;walk;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C1;10;800;aj_unitario;walk;4205407028;Canto;Continente;21,4173;6,8593;32,0269
+C1;10;800;aj_unitario;walk;4205407029;Capoeiras;Continente;53,6519;24,3628;45,409
+C1;10;800;aj_unitario;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C1;10;800;aj_unitario;walk;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407086;Trindade;Centro/Sede;68,4711;31,4601;45,9465
+C1;10;800;aj_unitario;walk;4205407087;Itacorubi;Centro/Sede;80,2643;26,1861;32,6248
+C1;10;800;aj_unitario;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C1;10;800;aj_unitario;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407128;Capivari;Norte;82,8735;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C1;10;800;aj_unitario;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407001;Centro;Centro/Sede;148,9482;139,7617;93,8324
+C2;20;800;aj_estimado;euclid;4205407002;Agronômica;Centro/Sede;59,0667;58,9031;99,723
+C2;20;800;aj_estimado;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;3,8703;14,9264
+C2;20;800;aj_estimado;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;36,783;82,6696
+C2;20;800;aj_estimado;euclid;4205407010;Pantanal;Centro/Sede;22,3171;5,4676;24,4996
+C2;20;800;aj_estimado;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;3,8313;77,2206
+C2;20;800;aj_estimado;euclid;4205407018;Estreito;Continente;30,6708;15,6089;50,8917
+C2;20;800;aj_estimado;euclid;4205407020;Coqueiros;Continente;42,5766;27,962;65,6745
+C2;20;800;aj_estimado;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C2;20;800;aj_estimado;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C2;20;800;aj_estimado;euclid;4205407026;Jardim Atlântico;Continente;37,9427;27,3016;71,9548
+C2;20;800;aj_estimado;euclid;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C2;20;800;aj_estimado;euclid;4205407028;Canto;Continente;21,4173;20,2978;94,7729
+C2;20;800;aj_estimado;euclid;4205407029;Capoeiras;Continente;53,6519;47,3324;88,2213
+C2;20;800;aj_estimado;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C2;20;800;aj_estimado;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C2;20;800;aj_estimado;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;35,8737;73,927
+C2;20;800;aj_estimado;euclid;4205407086;Trindade;Centro/Sede;68,4711;61,8521;90,3331
+C2;20;800;aj_estimado;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;44,4061;55,3248
+C2;20;800;aj_estimado;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3714;99,8017
+C2;20;800;aj_estimado;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C2;20;800;aj_estimado;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407098;Rio Vermelho;Leste;77,9652;29,3335;37,6238
+C2;20;800;aj_estimado;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407102;Campeche Central;Sul;21,3908;1,868;8,7327
+C2;20;800;aj_estimado;euclid;4205407103;Campeche Leste;Sul;18,8613;13,5566;71,8752
+C2;20;800;aj_estimado;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407106;Ressacada;Sul;11,3554;6,0253;53,0611
+C2;20;800;aj_estimado;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407115;Campeche Norte;Sul;17,0406;6,5428;38,3954
+C2;20;800;aj_estimado;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407119;Canasvieiras;Norte;35,1262;24,1232;68,6758
+C2;20;800;aj_estimado;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407124;Ingleses Centro;Norte;23,4972;17,9351;76,3287
+C2;20;800;aj_estimado;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407128;Capivari;Norte;82,8735;62,5965;75,5326
+C2;20;800;aj_estimado;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C2;20;800;aj_estimado;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C2;20;800;aj_estimado;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C2;20;800;aj_estimado;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407001;Centro;Centro/Sede;148,9482;132,8913;89,2198
+C2;20;800;aj_estimado;walk;4205407002;Agronômica;Centro/Sede;59,0667;34,502;58,4119
+C2;20;800;aj_estimado;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C2;20;800;aj_estimado;walk;4205407010;Pantanal;Centro/Sede;22,3171;13,5143;60,5558
+C2;20;800;aj_estimado;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407018;Estreito;Continente;30,6708;16,384;53,4189
+C2;20;800;aj_estimado;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C2;20;800;aj_estimado;walk;4205407026;Jardim Atlântico;Continente;37,9427;25,6618;67,633
+C2;20;800;aj_estimado;walk;4205407027;Balneário;Continente;18,6691;16,6388;89,1248
+C2;20;800;aj_estimado;walk;4205407028;Canto;Continente;21,4173;11,1692;52,1504
+C2;20;800;aj_estimado;walk;4205407029;Capoeiras;Continente;53,6519;36,0257;67,1471
+C2;20;800;aj_estimado;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C2;20;800;aj_estimado;walk;4205407031;Coloninha;Continente;12,9604;11,683;90,1438
+C2;20;800;aj_estimado;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;7,4032;15,2562
+C2;20;800;aj_estimado;walk;4205407086;Trindade;Centro/Sede;68,4711;50,0531;73,1011
+C2;20;800;aj_estimado;walk;4205407087;Itacorubi;Centro/Sede;80,2643;26,1861;32,6248
+C2;20;800;aj_estimado;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C2;20;800;aj_estimado;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407124;Ingleses Centro;Norte;23,4972;13,2102;56,2203
+C2;20;800;aj_estimado;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407128;Capivari;Norte;82,8735;43,4097;52,3807
+C2;20;800;aj_estimado;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C2;20;800;aj_estimado;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407001;Centro;Centro/Sede;148,9482;139,7617;93,8324
+C2;20;800;aj_unitario;euclid;4205407002;Agronômica;Centro/Sede;59,0667;58,9031;99,723
+C2;20;800;aj_unitario;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;3,8703;14,9264
+C2;20;800;aj_unitario;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;36,783;82,6696
+C2;20;800;aj_unitario;euclid;4205407010;Pantanal;Centro/Sede;22,3171;5,4676;24,4996
+C2;20;800;aj_unitario;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;3,8313;77,2206
+C2;20;800;aj_unitario;euclid;4205407018;Estreito;Continente;30,6708;15,6089;50,8917
+C2;20;800;aj_unitario;euclid;4205407020;Coqueiros;Continente;42,5766;27,962;65,6745
+C2;20;800;aj_unitario;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C2;20;800;aj_unitario;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C2;20;800;aj_unitario;euclid;4205407026;Jardim Atlântico;Continente;37,9427;27,3016;71,9548
+C2;20;800;aj_unitario;euclid;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C2;20;800;aj_unitario;euclid;4205407028;Canto;Continente;21,4173;20,2978;94,7729
+C2;20;800;aj_unitario;euclid;4205407029;Capoeiras;Continente;53,6519;47,3324;88,2213
+C2;20;800;aj_unitario;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C2;20;800;aj_unitario;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C2;20;800;aj_unitario;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;35,8737;73,927
+C2;20;800;aj_unitario;euclid;4205407086;Trindade;Centro/Sede;68,4711;61,8521;90,3331
+C2;20;800;aj_unitario;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;44,4061;55,3248
+C2;20;800;aj_unitario;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3714;99,8017
+C2;20;800;aj_unitario;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C2;20;800;aj_unitario;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407098;Rio Vermelho;Leste;77,9652;29,3335;37,6238
+C2;20;800;aj_unitario;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407102;Campeche Central;Sul;21,3908;1,868;8,7327
+C2;20;800;aj_unitario;euclid;4205407103;Campeche Leste;Sul;18,8613;13,5566;71,8752
+C2;20;800;aj_unitario;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407106;Ressacada;Sul;11,3554;6,0253;53,0611
+C2;20;800;aj_unitario;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407115;Campeche Norte;Sul;17,0406;6,5428;38,3954
+C2;20;800;aj_unitario;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407119;Canasvieiras;Norte;35,1262;24,1232;68,6758
+C2;20;800;aj_unitario;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407124;Ingleses Centro;Norte;23,4972;17,9351;76,3287
+C2;20;800;aj_unitario;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407128;Capivari;Norte;82,8735;62,5965;75,5326
+C2;20;800;aj_unitario;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C2;20;800;aj_unitario;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C2;20;800;aj_unitario;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C2;20;800;aj_unitario;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407001;Centro;Centro/Sede;148,9482;132,8908;89,2195
+C2;20;800;aj_unitario;walk;4205407002;Agronômica;Centro/Sede;59,0667;34,502;58,4119
+C2;20;800;aj_unitario;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C2;20;800;aj_unitario;walk;4205407010;Pantanal;Centro/Sede;22,3171;13,5143;60,5558
+C2;20;800;aj_unitario;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407018;Estreito;Continente;30,6708;16,384;53,4189
+C2;20;800;aj_unitario;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C2;20;800;aj_unitario;walk;4205407026;Jardim Atlântico;Continente;37,9427;25,6618;67,633
+C2;20;800;aj_unitario;walk;4205407027;Balneário;Continente;18,6691;16,6388;89,1248
+C2;20;800;aj_unitario;walk;4205407028;Canto;Continente;21,4173;11,1692;52,1504
+C2;20;800;aj_unitario;walk;4205407029;Capoeiras;Continente;53,6519;36,0257;67,1471
+C2;20;800;aj_unitario;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C2;20;800;aj_unitario;walk;4205407031;Coloninha;Continente;12,9604;11,683;90,1438
+C2;20;800;aj_unitario;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;7,4037;15,2572
+C2;20;800;aj_unitario;walk;4205407086;Trindade;Centro/Sede;68,4711;50,0531;73,1011
+C2;20;800;aj_unitario;walk;4205407087;Itacorubi;Centro/Sede;80,2643;26,1861;32,6248
+C2;20;800;aj_unitario;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C2;20;800;aj_unitario;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407124;Ingleses Centro;Norte;23,4972;13,2102;56,2203
+C2;20;800;aj_unitario;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407128;Capivari;Norte;82,8735;43,4097;52,3807
+C2;20;800;aj_unitario;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C2;20;800;aj_unitario;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407001;Centro;Centro/Sede;148,9482;146,2986;98,2211
+C3;40;800;aj_estimado;euclid;4205407002;Agronômica;Centro/Sede;59,0667;59,0517;99,9746
+C3;40;800;aj_estimado;euclid;4205407005;João Paulo;Centro/Sede;21,3521;15,7489;73,7581
+C3;40;800;aj_estimado;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;3,8703;14,9264
+C3;40;800;aj_estimado;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;36,783;82,6696
+C3;40;800;aj_estimado;euclid;4205407010;Pantanal;Centro/Sede;22,3171;20,5973;92,2938
+C3;40;800;aj_estimado;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;13,1398;48,4662
+C3;40;800;aj_estimado;euclid;4205407012;José Mendes;Centro/Sede;8,9266;7,2763;81,5126
+C3;40;800;aj_estimado;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;3,8313;77,2206
+C3;40;800;aj_estimado;euclid;4205407018;Estreito;Continente;30,6708;28,2815;92,2099
+C3;40;800;aj_estimado;euclid;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C3;40;800;aj_estimado;euclid;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C3;40;800;aj_estimado;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C3;40;800;aj_estimado;euclid;4205407026;Jardim Atlântico;Continente;37,9427;37,9427;100,0
+C3;40;800;aj_estimado;euclid;4205407027;Balneário;Continente;18,6691;18,6691;100,0
+C3;40;800;aj_estimado;euclid;4205407028;Canto;Continente;21,4173;21,4173;100,0
+C3;40;800;aj_estimado;euclid;4205407029;Capoeiras;Continente;53,6519;49,538;92,3322
+C3;40;800;aj_estimado;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C3;40;800;aj_estimado;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C3;40;800;aj_estimado;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;38,1256;78,5675
+C3;40;800;aj_estimado;euclid;4205407086;Trindade;Centro/Sede;68,4711;68,3675;99,8487
+C3;40;800;aj_estimado;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;64,2156;80,0052
+C3;40;800;aj_estimado;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3714;99,8017
+C3;40;800;aj_estimado;euclid;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C3;40;800;aj_estimado;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;4,2222;36,0545
+C3;40;800;aj_estimado;euclid;4205407091;Vargem Grande;Norte;14,2787;10,343;72,4367
+C3;40;800;aj_estimado;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;15,5394;88,9046
+C3;40;800;aj_estimado;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407095;Vargem de Fora;Norte;5,4917;1,7166;31,2581
+C3;40;800;aj_estimado;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407098;Rio Vermelho;Leste;77,9652;59,4996;76,3155
+C3;40;800;aj_estimado;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;6,8078;71,4286
+C3;40;800;aj_estimado;euclid;4205407100;Lagoa Pequena;Sul;10,9855;10,9855;100,0
+C3;40;800;aj_estimado;euclid;4205407101;Rio Tavares Central;Sul;18,5905;8,6133;46,3316
+C3;40;800;aj_estimado;euclid;4205407102;Campeche Central;Sul;21,3908;1,868;8,7327
+C3;40;800;aj_estimado;euclid;4205407103;Campeche Leste;Sul;18,8613;13,5566;71,8752
+C3;40;800;aj_estimado;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407105;Moenda;Sul;7,779;2,3214;29,842
+C3;40;800;aj_estimado;euclid;4205407106;Ressacada;Sul;11,3554;6,0253;53,0611
+C3;40;800;aj_estimado;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407115;Campeche Norte;Sul;17,0406;11,1338;65,3369
+C3;40;800;aj_estimado;euclid;4205407116;Morro das Pedras;Sul;9,3519;3,8759;41,4449
+C3;40;800;aj_estimado;euclid;4205407117;Campeche Sul;Sul;22,3907;13,722;61,2844
+C3;40;800;aj_estimado;euclid;4205407118;Pedrita;Sul;2,8811;2,4174;83,9053
+C3;40;800;aj_estimado;euclid;4205407119;Canasvieiras;Norte;35,1262;24,1232;68,6758
+C3;40;800;aj_estimado;euclid;4205407120;Jurere Leste;Norte;18,4246;15,4491;83,8504
+C3;40;800;aj_estimado;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407124;Ingleses Centro;Norte;23,4972;21,2151;90,2878
+C3;40;800;aj_estimado;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407126;Ingleses Sul;Norte;12,0821;10,8191;89,5469
+C3;40;800;aj_estimado;euclid;4205407127;Santinho;Norte;13,6405;1,5209;11,1499
+C3;40;800;aj_estimado;euclid;4205407128;Capivari;Norte;82,8735;79,9465;96,4681
+C3;40;800;aj_estimado;euclid;4205407129;Lagoa;Leste;19,8905;14,2451;71,6176
+C3;40;800;aj_estimado;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C3;40;800;aj_estimado;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C3;40;800;aj_estimado;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C3;40;800;aj_estimado;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;11,995;99,9926
+C3;40;800;aj_estimado;walk;4205407001;Centro;Centro/Sede;148,9482;132,8913;89,2198
+C3;40;800;aj_estimado;walk;4205407002;Agronômica;Centro/Sede;59,0667;49,6101;83,99
+C3;40;800;aj_estimado;walk;4205407005;João Paulo;Centro/Sede;21,3521;13,1556;61,6127
+C3;40;800;aj_estimado;walk;4205407006;Saco Grande;Centro/Sede;25,9292;6,5061;25,0918
+C3;40;800;aj_estimado;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C3;40;800;aj_estimado;walk;4205407010;Pantanal;Centro/Sede;22,3171;13,5143;60,5558
+C3;40;800;aj_estimado;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;12,6594;46,6941
+C3;40;800;aj_estimado;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407018;Estreito;Continente;30,6708;28,8331;94,0083
+C3;40;800;aj_estimado;walk;4205407020;Coqueiros;Continente;42,5766;25,094;58,9385
+C3;40;800;aj_estimado;walk;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C3;40;800;aj_estimado;walk;4205407023;Abraão;Continente;24,6138;15,6213;63,4656
+C3;40;800;aj_estimado;walk;4205407026;Jardim Atlântico;Continente;37,9427;31,3534;82,6336
+C3;40;800;aj_estimado;walk;4205407027;Balneário;Continente;18,6691;16,6388;89,1248
+C3;40;800;aj_estimado;walk;4205407028;Canto;Continente;21,4173;15,4751;72,2551
+C3;40;800;aj_estimado;walk;4205407029;Capoeiras;Continente;53,6519;37,1132;69,1741
+C3;40;800;aj_estimado;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C3;40;800;aj_estimado;walk;4205407031;Coloninha;Continente;12,9604;11,683;90,1438
+C3;40;800;aj_estimado;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;40,1939;82,8299
+C3;40;800;aj_estimado;walk;4205407086;Trindade;Centro/Sede;68,4711;54,5838;79,718
+C3;40;800;aj_estimado;walk;4205407087;Itacorubi;Centro/Sede;80,2643;52,0788;64,8841
+C3;40;800;aj_estimado;walk;4205407088;Monte Verde;Centro/Sede;19,4099;4,6586;24,0012
+C3;40;800;aj_estimado;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C3;40;800;aj_estimado;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;2,134;18,2227
+C3;40;800;aj_estimado;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;9,0802;51,95
+C3;40;800;aj_estimado;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407098;Rio Vermelho;Leste;77,9652;10,0171;12,8482
+C3;40;800;aj_estimado;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407119;Canasvieiras;Norte;35,1262;10,9209;31,0905
+C3;40;800;aj_estimado;walk;4205407120;Jurere Leste;Norte;18,4246;11,6014;62,9669
+C3;40;800;aj_estimado;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407124;Ingleses Centro;Norte;23,4972;16,3921;69,762
+C3;40;800;aj_estimado;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407128;Capivari;Norte;82,8735;66,4712;80,208
+C3;40;800;aj_estimado;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407147;Tapera da Base;Sul;30,013;15,6572;52,1682
+C3;40;800;aj_estimado;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C3;40;800;aj_estimado;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407001;Centro;Centro/Sede;148,9482;146,2986;98,2211
+C3;40;800;aj_unitario;euclid;4205407002;Agronômica;Centro/Sede;59,0667;59,0517;99,9746
+C3;40;800;aj_unitario;euclid;4205407005;João Paulo;Centro/Sede;21,3521;15,7489;73,7581
+C3;40;800;aj_unitario;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;3,8703;14,9264
+C3;40;800;aj_unitario;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;36,783;82,6696
+C3;40;800;aj_unitario;euclid;4205407010;Pantanal;Centro/Sede;22,3171;20,5973;92,2938
+C3;40;800;aj_unitario;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;13,1398;48,4662
+C3;40;800;aj_unitario;euclid;4205407012;José Mendes;Centro/Sede;8,9266;7,2763;81,5126
+C3;40;800;aj_unitario;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;3,8313;77,2206
+C3;40;800;aj_unitario;euclid;4205407018;Estreito;Continente;30,6708;28,2815;92,2099
+C3;40;800;aj_unitario;euclid;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C3;40;800;aj_unitario;euclid;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C3;40;800;aj_unitario;euclid;4205407023;Abraão;Continente;24,6138;22,1336;89,9235
+C3;40;800;aj_unitario;euclid;4205407026;Jardim Atlântico;Continente;37,9427;37,9427;100,0
+C3;40;800;aj_unitario;euclid;4205407027;Balneário;Continente;18,6691;18,6691;100,0
+C3;40;800;aj_unitario;euclid;4205407028;Canto;Continente;21,4173;21,4173;100,0
+C3;40;800;aj_unitario;euclid;4205407029;Capoeiras;Continente;53,6519;49,538;92,3322
+C3;40;800;aj_unitario;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C3;40;800;aj_unitario;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C3;40;800;aj_unitario;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;38,1256;78,5675
+C3;40;800;aj_unitario;euclid;4205407086;Trindade;Centro/Sede;68,4711;68,3675;99,8487
+C3;40;800;aj_unitario;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;64,2156;80,0052
+C3;40;800;aj_unitario;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3714;99,8017
+C3;40;800;aj_unitario;euclid;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C3;40;800;aj_unitario;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;4,2222;36,0545
+C3;40;800;aj_unitario;euclid;4205407091;Vargem Grande;Norte;14,2787;10,343;72,4367
+C3;40;800;aj_unitario;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;15,5394;88,9046
+C3;40;800;aj_unitario;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407095;Vargem de Fora;Norte;5,4917;1,7166;31,2581
+C3;40;800;aj_unitario;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407098;Rio Vermelho;Leste;77,9652;59,4984;76,314
+C3;40;800;aj_unitario;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;6,8078;71,4286
+C3;40;800;aj_unitario;euclid;4205407100;Lagoa Pequena;Sul;10,9855;10,9855;100,0
+C3;40;800;aj_unitario;euclid;4205407101;Rio Tavares Central;Sul;18,5905;8,6133;46,3316
+C3;40;800;aj_unitario;euclid;4205407102;Campeche Central;Sul;21,3908;1,868;8,7327
+C3;40;800;aj_unitario;euclid;4205407103;Campeche Leste;Sul;18,8613;13,5566;71,8752
+C3;40;800;aj_unitario;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407105;Moenda;Sul;7,779;2,3214;29,842
+C3;40;800;aj_unitario;euclid;4205407106;Ressacada;Sul;11,3554;6,0253;53,0611
+C3;40;800;aj_unitario;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407115;Campeche Norte;Sul;17,0406;11,1338;65,3369
+C3;40;800;aj_unitario;euclid;4205407116;Morro das Pedras;Sul;9,3519;3,8759;41,4449
+C3;40;800;aj_unitario;euclid;4205407117;Campeche Sul;Sul;22,3907;13,722;61,2844
+C3;40;800;aj_unitario;euclid;4205407118;Pedrita;Sul;2,8811;2,4174;83,9053
+C3;40;800;aj_unitario;euclid;4205407119;Canasvieiras;Norte;35,1262;24,1232;68,6758
+C3;40;800;aj_unitario;euclid;4205407120;Jurere Leste;Norte;18,4246;15,4491;83,8504
+C3;40;800;aj_unitario;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407124;Ingleses Centro;Norte;23,4972;21,2151;90,2878
+C3;40;800;aj_unitario;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407126;Ingleses Sul;Norte;12,0821;10,8203;89,5565
+C3;40;800;aj_unitario;euclid;4205407127;Santinho;Norte;13,6405;1,5209;11,1499
+C3;40;800;aj_unitario;euclid;4205407128;Capivari;Norte;82,8735;79,9465;96,4681
+C3;40;800;aj_unitario;euclid;4205407129;Lagoa;Leste;19,8905;14,2451;71,6176
+C3;40;800;aj_unitario;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C3;40;800;aj_unitario;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C3;40;800;aj_unitario;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C3;40;800;aj_unitario;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;11,995;99,9926
+C3;40;800;aj_unitario;walk;4205407001;Centro;Centro/Sede;148,9482;132,8913;89,2198
+C3;40;800;aj_unitario;walk;4205407002;Agronômica;Centro/Sede;59,0667;49,6101;83,99
+C3;40;800;aj_unitario;walk;4205407005;João Paulo;Centro/Sede;21,3521;13,1556;61,6127
+C3;40;800;aj_unitario;walk;4205407006;Saco Grande;Centro/Sede;25,9292;6,5061;25,0918
+C3;40;800;aj_unitario;walk;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C3;40;800;aj_unitario;walk;4205407010;Pantanal;Centro/Sede;22,3171;13,5143;60,5558
+C3;40;800;aj_unitario;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;12,6594;46,6941
+C3;40;800;aj_unitario;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407018;Estreito;Continente;30,6708;28,8331;94,0083
+C3;40;800;aj_unitario;walk;4205407020;Coqueiros;Continente;42,5766;25,094;58,9385
+C3;40;800;aj_unitario;walk;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C3;40;800;aj_unitario;walk;4205407023;Abraão;Continente;24,6138;15,6213;63,4656
+C3;40;800;aj_unitario;walk;4205407026;Jardim Atlântico;Continente;37,9427;31,3534;82,6336
+C3;40;800;aj_unitario;walk;4205407027;Balneário;Continente;18,6691;16,6388;89,1248
+C3;40;800;aj_unitario;walk;4205407028;Canto;Continente;21,4173;15,4751;72,2551
+C3;40;800;aj_unitario;walk;4205407029;Capoeiras;Continente;53,6519;37,1124;69,1726
+C3;40;800;aj_unitario;walk;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C3;40;800;aj_unitario;walk;4205407031;Coloninha;Continente;12,9604;11,683;90,1438
+C3;40;800;aj_unitario;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;40,1939;82,8299
+C3;40;800;aj_unitario;walk;4205407086;Trindade;Centro/Sede;68,4711;54,5838;79,718
+C3;40;800;aj_unitario;walk;4205407087;Itacorubi;Centro/Sede;80,2643;52,0788;64,8841
+C3;40;800;aj_unitario;walk;4205407088;Monte Verde;Centro/Sede;19,4099;4,6586;24,0012
+C3;40;800;aj_unitario;walk;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C3;40;800;aj_unitario;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;2,134;18,2227
+C3;40;800;aj_unitario;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;9,0802;51,95
+C3;40;800;aj_unitario;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407098;Rio Vermelho;Leste;77,9652;10,0171;12,8482
+C3;40;800;aj_unitario;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407119;Canasvieiras;Norte;35,1262;10,9209;31,0905
+C3;40;800;aj_unitario;walk;4205407120;Jurere Leste;Norte;18,4246;11,6014;62,9669
+C3;40;800;aj_unitario;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407124;Ingleses Centro;Norte;23,4972;16,3921;69,762
+C3;40;800;aj_unitario;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407128;Capivari;Norte;82,8735;66,4712;80,208
+C3;40;800;aj_unitario;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407147;Tapera da Base;Sul;30,013;15,658;52,1707
+C3;40;800;aj_unitario;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C3;40;800;aj_unitario;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407001;Centro;Centro/Sede;148,9482;120,4686;80,8795
+C4;20;500;aj_estimado;euclid;4205407002;Agronômica;Centro/Sede;59,0667;47,3714;80,1998
+C4;20;500;aj_estimado;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;22,4954;50,5583
+C4;20;500;aj_estimado;euclid;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407018;Estreito;Continente;30,6708;15,5864;50,8184
+C4;20;500;aj_estimado;euclid;4205407020;Coqueiros;Continente;42,5766;38,9122;91,3933
+C4;20;500;aj_estimado;euclid;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C4;20;500;aj_estimado;euclid;4205407026;Jardim Atlântico;Continente;37,9427;25,936;68,3557
+C4;20;500;aj_estimado;euclid;4205407027;Balneário;Continente;18,6691;8,9615;48,0018
+C4;20;500;aj_estimado;euclid;4205407028;Canto;Continente;21,4173;16,1761;75,5282
+C4;20;500;aj_estimado;euclid;4205407029;Capoeiras;Continente;53,6519;20,2192;37,6859
+C4;20;500;aj_estimado;euclid;4205407030;Monte Cristo;Continente;24,9461;20,9123;83,8299
+C4;20;500;aj_estimado;euclid;4205407031;Coloninha;Continente;12,9604;2,0882;16,1122
+C4;20;500;aj_estimado;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;14,7665;30,4302
+C4;20;500;aj_estimado;euclid;4205407086;Trindade;Centro/Sede;68,4711;57,6087;84,1358
+C4;20;500;aj_estimado;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;26,1321;32,5576
+C4;20;500;aj_estimado;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C4;20;500;aj_estimado;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407128;Capivari;Norte;82,8735;61,0856;73,7094
+C4;20;500;aj_estimado;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C4;20;500;aj_estimado;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407001;Centro;Centro/Sede;148,9482;113,4284;76,1529
+C4;20;500;aj_estimado;walk;4205407002;Agronômica;Centro/Sede;59,0667;20,4944;34,697
+C4;20;500;aj_estimado;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407009;Córrego Grande;Centro/Sede;44,494;11,9639;26,8888
+C4;20;500;aj_estimado;walk;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407018;Estreito;Continente;30,6708;16,439;53,5982
+C4;20;500;aj_estimado;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C4;20;500;aj_estimado;walk;4205407023;Abraão;Continente;24,6138;17,2936;70,2598
+C4;20;500;aj_estimado;walk;4205407026;Jardim Atlântico;Continente;37,9427;13,6705;36,0293
+C4;20;500;aj_estimado;walk;4205407027;Balneário;Continente;18,6691;13,935;74,6421
+C4;20;500;aj_estimado;walk;4205407028;Canto;Continente;21,4173;5,0687;23,6664
+C4;20;500;aj_estimado;walk;4205407029;Capoeiras;Continente;53,6519;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407030;Monte Cristo;Continente;24,9461;19,5656;78,4315
+C4;20;500;aj_estimado;walk;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;6,1985;12,7736
+C4;20;500;aj_estimado;walk;4205407086;Trindade;Centro/Sede;68,4711;28,868;42,1609
+C4;20;500;aj_estimado;walk;4205407087;Itacorubi;Centro/Sede;80,2643;13,733;17,1097
+C4;20;500;aj_estimado;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407089;Bom Abrigo;Continente;4,5751;3,5894;78,4551
+C4;20;500;aj_estimado;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407128;Capivari;Norte;82,8735;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C4;20;500;aj_estimado;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407001;Centro;Centro/Sede;148,9482;120,4686;80,8795
+C4;20;500;aj_unitario;euclid;4205407002;Agronômica;Centro/Sede;59,0667;47,3714;80,1998
+C4;20;500;aj_unitario;euclid;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;22,4954;50,5583
+C4;20;500;aj_unitario;euclid;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407018;Estreito;Continente;30,6708;15,5864;50,8184
+C4;20;500;aj_unitario;euclid;4205407020;Coqueiros;Continente;42,5766;38,9122;91,3933
+C4;20;500;aj_unitario;euclid;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C4;20;500;aj_unitario;euclid;4205407026;Jardim Atlântico;Continente;37,9427;25,936;68,3557
+C4;20;500;aj_unitario;euclid;4205407027;Balneário;Continente;18,6691;8,9615;48,0018
+C4;20;500;aj_unitario;euclid;4205407028;Canto;Continente;21,4173;16,1761;75,5282
+C4;20;500;aj_unitario;euclid;4205407029;Capoeiras;Continente;53,6519;20,2192;37,6859
+C4;20;500;aj_unitario;euclid;4205407030;Monte Cristo;Continente;24,9461;20,9123;83,8299
+C4;20;500;aj_unitario;euclid;4205407031;Coloninha;Continente;12,9604;2,0882;16,1122
+C4;20;500;aj_unitario;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;14,7665;30,4302
+C4;20;500;aj_unitario;euclid;4205407086;Trindade;Centro/Sede;68,4711;57,6087;84,1358
+C4;20;500;aj_unitario;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;26,1321;32,5576
+C4;20;500;aj_unitario;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407089;Bom Abrigo;Continente;4,5751;1,484;32,4364
+C4;20;500;aj_unitario;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407105;Moenda;Sul;7,779;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407128;Capivari;Norte;82,8735;61,0856;73,7094
+C4;20;500;aj_unitario;euclid;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C4;20;500;aj_unitario;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407001;Centro;Centro/Sede;148,9482;113,4281;76,1527
+C4;20;500;aj_unitario;walk;4205407002;Agronômica;Centro/Sede;59,0667;20,4944;34,697
+C4;20;500;aj_unitario;walk;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407009;Córrego Grande;Centro/Sede;44,494;11,9639;26,8888
+C4;20;500;aj_unitario;walk;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407018;Estreito;Continente;30,6708;16,439;53,5982
+C4;20;500;aj_unitario;walk;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C4;20;500;aj_unitario;walk;4205407023;Abraão;Continente;24,6138;17,2936;70,2598
+C4;20;500;aj_unitario;walk;4205407026;Jardim Atlântico;Continente;37,9427;13,6705;36,0293
+C4;20;500;aj_unitario;walk;4205407027;Balneário;Continente;18,6691;13,935;74,6421
+C4;20;500;aj_unitario;walk;4205407028;Canto;Continente;21,4173;5,0687;23,6664
+C4;20;500;aj_unitario;walk;4205407029;Capoeiras;Continente;53,6519;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407030;Monte Cristo;Continente;24,9461;19,5656;78,4315
+C4;20;500;aj_unitario;walk;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407083;Saco dos Limões;Centro/Sede;48,5259;6,1985;12,7736
+C4;20;500;aj_unitario;walk;4205407086;Trindade;Centro/Sede;68,4711;28,8683;42,1613
+C4;20;500;aj_unitario;walk;4205407087;Itacorubi;Centro/Sede;80,2643;13,733;17,1097
+C4;20;500;aj_unitario;walk;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407089;Bom Abrigo;Continente;4,5751;3,5894;78,4551
+C4;20;500;aj_unitario;walk;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407098;Rio Vermelho;Leste;77,9652;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407100;Lagoa Pequena;Sul;10,9855;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407101;Rio Tavares Central;Sul;18,5905;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407102;Campeche Central;Sul;21,3908;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407103;Campeche Leste;Sul;18,8613;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407105;Moenda;Sul;7,779;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407106;Ressacada;Sul;11,3554;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407109;Morro do Peralta;Sul;2,7568;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407115;Campeche Norte;Sul;17,0406;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407119;Canasvieiras;Norte;35,1262;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407122;Forte;Norte;0,461;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407124;Ingleses Centro;Norte;23,4972;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407126;Ingleses Sul;Norte;12,0821;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407128;Capivari;Norte;82,8735;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407137;Armação;Sul;11,0119;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407138;Açores;Sul;4,8269;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407141;Carianos;Sul;15,2513;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407147;Tapera da Base;Sul;30,013;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C4;20;500;aj_unitario;walk;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407001;Centro;Centro/Sede;148,9482;148,9482;100,0
+C5;20;1500;aj_estimado;euclid;4205407002;Agronômica;Centro/Sede;59,0667;59,0667;100,0
+C5;20;1500;aj_estimado;euclid;4205407005;João Paulo;Centro/Sede;21,3521;8,1965;38,3873
+C5;20;1500;aj_estimado;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;16,2852;62,8064
+C5;20;1500;aj_estimado;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;44,0966;99,1069
+C5;20;1500;aj_estimado;euclid;4205407010;Pantanal;Centro/Sede;22,3171;21,5635;96,6231
+C5;20;1500;aj_estimado;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;21,613;79,7194
+C5;20;1500;aj_estimado;euclid;4205407012;José Mendes;Centro/Sede;8,9266;6,1877;69,3175
+C5;20;1500;aj_estimado;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;4,9615;100,0
+C5;20;1500;aj_estimado;euclid;4205407018;Estreito;Continente;30,6708;23,2046;75,657
+C5;20;1500;aj_estimado;euclid;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C5;20;1500;aj_estimado;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C5;20;1500;aj_estimado;euclid;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C5;20;1500;aj_estimado;euclid;4205407026;Jardim Atlântico;Continente;37,9427;37,9427;100,0
+C5;20;1500;aj_estimado;euclid;4205407027;Balneário;Continente;18,6691;18,6691;100,0
+C5;20;1500;aj_estimado;euclid;4205407028;Canto;Continente;21,4173;21,4173;100,0
+C5;20;1500;aj_estimado;euclid;4205407029;Capoeiras;Continente;53,6519;49,3077;91,903
+C5;20;1500;aj_estimado;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C5;20;1500;aj_estimado;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C5;20;1500;aj_estimado;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;45,7985;94,3796
+C5;20;1500;aj_estimado;euclid;4205407086;Trindade;Centro/Sede;68,4711;65,9578;96,3294
+C5;20;1500;aj_estimado;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;78,2711;97,5167
+C5;20;1500;aj_estimado;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3892;99,8937
+C5;20;1500;aj_estimado;euclid;4205407089;Bom Abrigo;Continente;4,5751;3,5894;78,4551
+C5;20;1500;aj_estimado;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;4,2222;36,0545
+C5;20;1500;aj_estimado;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;15,5394;88,9046
+C5;20;1500;aj_estimado;euclid;4205407093;Jurerê;Norte;4,0444;1,6909;41,8084
+C5;20;1500;aj_estimado;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,9846;100,0
+C5;20;1500;aj_estimado;euclid;4205407095;Vargem de Fora;Norte;5,4917;5,4917;100,0
+C5;20;1500;aj_estimado;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407098;Rio Vermelho;Leste;77,9652;76,2291;97,7732
+C5;20;1500;aj_estimado;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;6,8078;71,4286
+C5;20;1500;aj_estimado;euclid;4205407100;Lagoa Pequena;Sul;10,9855;10,9855;100,0
+C5;20;1500;aj_estimado;euclid;4205407101;Rio Tavares Central;Sul;18,5905;16,7853;90,2894
+C5;20;1500;aj_estimado;euclid;4205407102;Campeche Central;Sul;21,3908;16,2956;76,1803
+C5;20;1500;aj_estimado;euclid;4205407103;Campeche Leste;Sul;18,8613;18,8552;99,9677
+C5;20;1500;aj_estimado;euclid;4205407104;Autódromo;Sul;4,1499;2,8865;69,5559
+C5;20;1500;aj_estimado;euclid;4205407105;Moenda;Sul;7,779;7,778;99,9874
+C5;20;1500;aj_estimado;euclid;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C5;20;1500;aj_estimado;euclid;4205407107;Base Aérea;Sul;1,5019;1,5009;99,935
+C5;20;1500;aj_estimado;euclid;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C5;20;1500;aj_estimado;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;5,5354;38,2849
+C5;20;1500;aj_estimado;euclid;4205407115;Campeche Norte;Sul;17,0406;14,0687;82,5599
+C5;20;1500;aj_estimado;euclid;4205407116;Morro das Pedras;Sul;9,3519;9,3407;99,88
+C5;20;1500;aj_estimado;euclid;4205407117;Campeche Sul;Sul;22,3907;21,7237;97,0211
+C5;20;1500;aj_estimado;euclid;4205407118;Pedrita;Sul;2,8811;2,4174;83,9053
+C5;20;1500;aj_estimado;euclid;4205407119;Canasvieiras;Norte;35,1262;28,9278;82,3539
+C5;20;1500;aj_estimado;euclid;4205407120;Jurere Leste;Norte;18,4246;18,4246;100,0
+C5;20;1500;aj_estimado;euclid;4205407121;Jurere Oeste;Norte;11,0676;5,7046;51,5432
+C5;20;1500;aj_estimado;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407124;Ingleses Centro;Norte;23,4972;23,0282;98,004
+C5;20;1500;aj_estimado;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407126;Ingleses Sul;Norte;12,0821;8,0857;66,923
+C5;20;1500;aj_estimado;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407128;Capivari;Norte;82,8735;74,658;90,0867
+C5;20;1500;aj_estimado;euclid;4205407129;Lagoa;Leste;19,8905;0,0402;0,2019
+C5;20;1500;aj_estimado;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C5;20;1500;aj_estimado;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,983;12,1107
+C5;20;1500;aj_estimado;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C5;20;1500;aj_estimado;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C5;20;1500;aj_estimado;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;9,0939;75,8084
+C5;20;1500;aj_estimado;drive;4205407001;Centro;Centro/Sede;148,9482;143,683;96,4651
+C5;20;1500;aj_estimado;drive;4205407002;Agronômica;Centro/Sede;59,0667;52,7751;89,3483
+C5;20;1500;aj_estimado;drive;4205407005;João Paulo;Centro/Sede;21,3521;3,1739;14,8646
+C5;20;1500;aj_estimado;drive;4205407006;Saco Grande;Centro/Sede;25,9292;8,47;32,6658
+C5;20;1500;aj_estimado;drive;4205407009;Córrego Grande;Centro/Sede;44,494;42,159;94,7521
+C5;20;1500;aj_estimado;drive;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407016;Santa Mônica;Centro/Sede;4,9615;2,0608;41,5358
+C5;20;1500;aj_estimado;drive;4205407018;Estreito;Continente;30,6708;22,1009;72,0584
+C5;20;1500;aj_estimado;drive;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C5;20;1500;aj_estimado;drive;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C5;20;1500;aj_estimado;drive;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C5;20;1500;aj_estimado;drive;4205407026;Jardim Atlântico;Continente;37,9427;37,1708;97,9656
+C5;20;1500;aj_estimado;drive;4205407027;Balneário;Continente;18,6691;3,1084;16,65
+C5;20;1500;aj_estimado;drive;4205407028;Canto;Continente;21,4173;18,8855;88,1787
+C5;20;1500;aj_estimado;drive;4205407029;Capoeiras;Continente;53,6519;48,5299;90,4533
+C5;20;1500;aj_estimado;drive;4205407030;Monte Cristo;Continente;24,9461;23,5814;94,5294
+C5;20;1500;aj_estimado;drive;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C5;20;1500;aj_estimado;drive;4205407083;Saco dos Limões;Centro/Sede;48,5259;13,6844;28,2002
+C5;20;1500;aj_estimado;drive;4205407086;Trindade;Centro/Sede;68,4711;64,2468;93,8305
+C5;20;1500;aj_estimado;drive;4205407087;Itacorubi;Centro/Sede;80,2643;49,9436;62,2239
+C5;20;1500;aj_estimado;drive;4205407088;Monte Verde;Centro/Sede;19,4099;17,3914;89,6008
+C5;20;1500;aj_estimado;drive;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C5;20;1500;aj_estimado;drive;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407098;Rio Vermelho;Leste;77,9652;34,5951;44,3725
+C5;20;1500;aj_estimado;drive;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407100;Lagoa Pequena;Sul;10,9855;8,6956;79,1553
+C5;20;1500;aj_estimado;drive;4205407101;Rio Tavares Central;Sul;18,5905;12,3078;66,2046
+C5;20;1500;aj_estimado;drive;4205407102;Campeche Central;Sul;21,3908;7,3707;34,4573
+C5;20;1500;aj_estimado;drive;4205407103;Campeche Leste;Sul;18,8613;14,0796;74,6481
+C5;20;1500;aj_estimado;drive;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407105;Moenda;Sul;7,779;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C5;20;1500;aj_estimado;drive;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C5;20;1500;aj_estimado;drive;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407115;Campeche Norte;Sul;17,0406;11,3311;66,4947
+C5;20;1500;aj_estimado;drive;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407119;Canasvieiras;Norte;35,1262;25,8309;73,5374
+C5;20;1500;aj_estimado;drive;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407122;Forte;Norte;0,461;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407124;Ingleses Centro;Norte;23,4972;19,3813;82,4835
+C5;20;1500;aj_estimado;drive;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407126;Ingleses Sul;Norte;12,0821;1,5967;13,2154
+C5;20;1500;aj_estimado;drive;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407128;Capivari;Norte;82,8735;71,7642;86,5948
+C5;20;1500;aj_estimado;drive;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407137;Armação;Sul;11,0119;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407138;Açores;Sul;4,8269;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407141;Carianos;Sul;15,2513;12,8428;84,2079
+C5;20;1500;aj_estimado;drive;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407147;Tapera da Base;Sul;30,013;23,7281;79,0594
+C5;20;1500;aj_estimado;drive;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C5;20;1500;aj_estimado;drive;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407001;Centro;Centro/Sede;148,9482;148,9482;100,0
+C5;20;1500;aj_unitario;euclid;4205407002;Agronômica;Centro/Sede;59,0667;59,0667;100,0
+C5;20;1500;aj_unitario;euclid;4205407005;João Paulo;Centro/Sede;21,3521;8,1965;38,3873
+C5;20;1500;aj_unitario;euclid;4205407006;Saco Grande;Centro/Sede;25,9292;16,2852;62,8064
+C5;20;1500;aj_unitario;euclid;4205407009;Córrego Grande;Centro/Sede;44,494;44,0966;99,1069
+C5;20;1500;aj_unitario;euclid;4205407010;Pantanal;Centro/Sede;22,3171;21,5635;96,6231
+C5;20;1500;aj_unitario;euclid;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;21,613;79,7194
+C5;20;1500;aj_unitario;euclid;4205407012;José Mendes;Centro/Sede;8,9266;6,1877;69,3175
+C5;20;1500;aj_unitario;euclid;4205407016;Santa Mônica;Centro/Sede;4,9615;4,9615;100,0
+C5;20;1500;aj_unitario;euclid;4205407018;Estreito;Continente;30,6708;23,2046;75,657
+C5;20;1500;aj_unitario;euclid;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C5;20;1500;aj_unitario;euclid;4205407022;Itaguaçu;Continente;6,2912;4,4239;70,3189
+C5;20;1500;aj_unitario;euclid;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C5;20;1500;aj_unitario;euclid;4205407026;Jardim Atlântico;Continente;37,9427;37,9427;100,0
+C5;20;1500;aj_unitario;euclid;4205407027;Balneário;Continente;18,6691;18,6691;100,0
+C5;20;1500;aj_unitario;euclid;4205407028;Canto;Continente;21,4173;21,4173;100,0
+C5;20;1500;aj_unitario;euclid;4205407029;Capoeiras;Continente;53,6519;49,3064;91,9006
+C5;20;1500;aj_unitario;euclid;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C5;20;1500;aj_unitario;euclid;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C5;20;1500;aj_unitario;euclid;4205407083;Saco dos Limões;Centro/Sede;48,5259;45,7985;94,3796
+C5;20;1500;aj_unitario;euclid;4205407086;Trindade;Centro/Sede;68,4711;65,9591;96,3313
+C5;20;1500;aj_unitario;euclid;4205407087;Itacorubi;Centro/Sede;80,2643;78,2711;97,5167
+C5;20;1500;aj_unitario;euclid;4205407088;Monte Verde;Centro/Sede;19,4099;19,3892;99,8937
+C5;20;1500;aj_unitario;euclid;4205407089;Bom Abrigo;Continente;4,5751;3,5894;78,4551
+C5;20;1500;aj_unitario;euclid;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;4,2222;36,0545
+C5;20;1500;aj_unitario;euclid;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407092;Vargem do Bom Jesus;Norte;17,4787;15,5394;88,9046
+C5;20;1500;aj_unitario;euclid;4205407093;Jurerê;Norte;4,0444;1,6909;41,8084
+C5;20;1500;aj_unitario;euclid;4205407094;Canto do Lamim;Norte;0,9846;0,9846;100,0
+C5;20;1500;aj_unitario;euclid;4205407095;Vargem de Fora;Norte;5,4917;5,4917;100,0
+C5;20;1500;aj_unitario;euclid;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407098;Rio Vermelho;Leste;77,9652;76,2291;97,7732
+C5;20;1500;aj_unitario;euclid;4205407099;Rio Tavares do Norte;Sul;9,5309;6,8078;71,4286
+C5;20;1500;aj_unitario;euclid;4205407100;Lagoa Pequena;Sul;10,9855;10,9855;100,0
+C5;20;1500;aj_unitario;euclid;4205407101;Rio Tavares Central;Sul;18,5905;16,7853;90,2894
+C5;20;1500;aj_unitario;euclid;4205407102;Campeche Central;Sul;21,3908;16,2956;76,1803
+C5;20;1500;aj_unitario;euclid;4205407103;Campeche Leste;Sul;18,8613;18,8552;99,9677
+C5;20;1500;aj_unitario;euclid;4205407104;Autódromo;Sul;4,1499;2,8865;69,5559
+C5;20;1500;aj_unitario;euclid;4205407105;Moenda;Sul;7,779;7,778;99,9874
+C5;20;1500;aj_unitario;euclid;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C5;20;1500;aj_unitario;euclid;4205407107;Base Aérea;Sul;1,5019;1,5009;99,935
+C5;20;1500;aj_unitario;euclid;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C5;20;1500;aj_unitario;euclid;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;5,5354;38,2849
+C5;20;1500;aj_unitario;euclid;4205407115;Campeche Norte;Sul;17,0406;14,0687;82,5599
+C5;20;1500;aj_unitario;euclid;4205407116;Morro das Pedras;Sul;9,3519;9,3407;99,88
+C5;20;1500;aj_unitario;euclid;4205407117;Campeche Sul;Sul;22,3907;21,7237;97,0211
+C5;20;1500;aj_unitario;euclid;4205407118;Pedrita;Sul;2,8811;2,4174;83,9053
+C5;20;1500;aj_unitario;euclid;4205407119;Canasvieiras;Norte;35,1262;28,9278;82,3539
+C5;20;1500;aj_unitario;euclid;4205407120;Jurere Leste;Norte;18,4246;18,4246;100,0
+C5;20;1500;aj_unitario;euclid;4205407121;Jurere Oeste;Norte;11,0676;5,7046;51,5432
+C5;20;1500;aj_unitario;euclid;4205407122;Forte;Norte;0,461;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407124;Ingleses Centro;Norte;23,4972;23,0282;98,004
+C5;20;1500;aj_unitario;euclid;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407126;Ingleses Sul;Norte;12,0821;8,0857;66,923
+C5;20;1500;aj_unitario;euclid;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407128;Capivari;Norte;82,8735;74,658;90,0867
+C5;20;1500;aj_unitario;euclid;4205407129;Lagoa;Leste;19,8905;0,0402;0,2019
+C5;20;1500;aj_unitario;euclid;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407137;Armação;Sul;11,0119;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407138;Açores;Sul;4,8269;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407141;Carianos;Sul;15,2513;15,2513;100,0
+C5;20;1500;aj_unitario;euclid;4205407142;Alto Ribeirão;Sul;8,1168;0,983;12,1107
+C5;20;1500;aj_unitario;euclid;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407147;Tapera da Base;Sul;30,013;30,0013;99,961
+C5;20;1500;aj_unitario;euclid;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C5;20;1500;aj_unitario;euclid;4205407153;Alto Ribeirão Leste;Sul;11,9959;9,0939;75,8084
+C5;20;1500;aj_unitario;drive;4205407001;Centro;Centro/Sede;148,9482;143,6821;96,4645
+C5;20;1500;aj_unitario;drive;4205407002;Agronômica;Centro/Sede;59,0667;52,7751;89,3483
+C5;20;1500;aj_unitario;drive;4205407005;João Paulo;Centro/Sede;21,3521;3,1739;14,8646
+C5;20;1500;aj_unitario;drive;4205407006;Saco Grande;Centro/Sede;25,9292;8,47;32,6658
+C5;20;1500;aj_unitario;drive;4205407009;Córrego Grande;Centro/Sede;44,494;42,159;94,7521
+C5;20;1500;aj_unitario;drive;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407016;Santa Mônica;Centro/Sede;4,9615;2,0608;41,5358
+C5;20;1500;aj_unitario;drive;4205407018;Estreito;Continente;30,6708;22,1009;72,0584
+C5;20;1500;aj_unitario;drive;4205407020;Coqueiros;Continente;42,5766;42,5766;100,0
+C5;20;1500;aj_unitario;drive;4205407022;Itaguaçu;Continente;6,2912;6,2912;100,0
+C5;20;1500;aj_unitario;drive;4205407023;Abraão;Continente;24,6138;24,6138;100,0
+C5;20;1500;aj_unitario;drive;4205407026;Jardim Atlântico;Continente;37,9427;37,1708;97,9656
+C5;20;1500;aj_unitario;drive;4205407027;Balneário;Continente;18,6691;3,1084;16,65
+C5;20;1500;aj_unitario;drive;4205407028;Canto;Continente;21,4173;18,8855;88,1787
+C5;20;1500;aj_unitario;drive;4205407029;Capoeiras;Continente;53,6519;48,5299;90,4533
+C5;20;1500;aj_unitario;drive;4205407030;Monte Cristo;Continente;24,9461;23,5814;94,5294
+C5;20;1500;aj_unitario;drive;4205407031;Coloninha;Continente;12,9604;12,9604;100,0
+C5;20;1500;aj_unitario;drive;4205407083;Saco dos Limões;Centro/Sede;48,5259;13,6844;28,2002
+C5;20;1500;aj_unitario;drive;4205407086;Trindade;Centro/Sede;68,4711;64,2468;93,8305
+C5;20;1500;aj_unitario;drive;4205407087;Itacorubi;Centro/Sede;80,2643;49,9436;62,2239
+C5;20;1500;aj_unitario;drive;4205407088;Monte Verde;Centro/Sede;19,4099;17,3914;89,6008
+C5;20;1500;aj_unitario;drive;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C5;20;1500;aj_unitario;drive;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407098;Rio Vermelho;Leste;77,9652;34,5951;44,3725
+C5;20;1500;aj_unitario;drive;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407100;Lagoa Pequena;Sul;10,9855;8,6956;79,1553
+C5;20;1500;aj_unitario;drive;4205407101;Rio Tavares Central;Sul;18,5905;12,3078;66,2046
+C5;20;1500;aj_unitario;drive;4205407102;Campeche Central;Sul;21,3908;7,3707;34,4573
+C5;20;1500;aj_unitario;drive;4205407103;Campeche Leste;Sul;18,8613;14,0796;74,6481
+C5;20;1500;aj_unitario;drive;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407105;Moenda;Sul;7,779;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C5;20;1500;aj_unitario;drive;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C5;20;1500;aj_unitario;drive;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407115;Campeche Norte;Sul;17,0406;11,3311;66,4947
+C5;20;1500;aj_unitario;drive;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407117;Campeche Sul;Sul;22,3907;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407119;Canasvieiras;Norte;35,1262;25,8318;73,54
+C5;20;1500;aj_unitario;drive;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407122;Forte;Norte;0,461;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407124;Ingleses Centro;Norte;23,4972;19,3813;82,4835
+C5;20;1500;aj_unitario;drive;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407126;Ingleses Sul;Norte;12,0821;1,5967;13,2154
+C5;20;1500;aj_unitario;drive;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407128;Capivari;Norte;82,8735;71,7642;86,5948
+C5;20;1500;aj_unitario;drive;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407137;Armação;Sul;11,0119;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407138;Açores;Sul;4,8269;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407141;Carianos;Sul;15,2513;12,8428;84,2079
+C5;20;1500;aj_unitario;drive;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407147;Tapera da Base;Sul;30,013;23,7281;79,0594
+C5;20;1500;aj_unitario;drive;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C5;20;1500;aj_unitario;drive;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407001;Centro;Centro/Sede;148,9482;112,6213;75,6111
+C6;20;800/1500;aj_estimado;misto;4205407002;Agronômica;Centro/Sede;59,0667;13,0431;22,082
+C6;20;800/1500;aj_estimado;misto;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C6;20;800/1500;aj_estimado;misto;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407018;Estreito;Continente;30,6708;5,0526;16,4736
+C6;20;800/1500;aj_estimado;misto;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C6;20;800/1500;aj_estimado;misto;4205407026;Jardim Atlântico;Continente;37,9427;10,8409;28,5718
+C6;20;800/1500;aj_estimado;misto;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C6;20;800/1500;aj_estimado;misto;4205407028;Canto;Continente;21,4173;6,8593;32,0269
+C6;20;800/1500;aj_estimado;misto;4205407029;Capoeiras;Continente;53,6519;24,3628;45,409
+C6;20;800/1500;aj_estimado;misto;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C6;20;800/1500;aj_estimado;misto;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407083;Saco dos Limões;Centro/Sede;48,5259;4,7244;9,7358
+C6;20;800/1500;aj_estimado;misto;4205407086;Trindade;Centro/Sede;68,4711;50,0531;73,1011
+C6;20;800/1500;aj_estimado;misto;4205407087;Itacorubi;Centro/Sede;80,2643;26,1861;32,6248
+C6;20;800/1500;aj_estimado;misto;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C6;20;800/1500;aj_estimado;misto;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407098;Rio Vermelho;Leste;77,9652;34,5951;44,3725
+C6;20;800/1500;aj_estimado;misto;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407100;Lagoa Pequena;Sul;10,9855;8,6956;79,1553
+C6;20;800/1500;aj_estimado;misto;4205407101;Rio Tavares Central;Sul;18,5905;12,3078;66,2046
+C6;20;800/1500;aj_estimado;misto;4205407102;Campeche Central;Sul;21,3908;7,3707;34,4573
+C6;20;800/1500;aj_estimado;misto;4205407103;Campeche Leste;Sul;18,8613;14,0796;74,6481
+C6;20;800/1500;aj_estimado;misto;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407105;Moenda;Sul;7,779;2,3214;29,842
+C6;20;800/1500;aj_estimado;misto;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C6;20;800/1500;aj_estimado;misto;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C6;20;800/1500;aj_estimado;misto;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407115;Campeche Norte;Sul;17,0406;11,3311;66,4947
+C6;20;800/1500;aj_estimado;misto;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407117;Campeche Sul;Sul;22,3907;20,1427;89,9601
+C6;20;800/1500;aj_estimado;misto;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407119;Canasvieiras;Norte;35,1262;25,8312;73,5382
+C6;20;800/1500;aj_estimado;misto;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407122;Forte;Norte;0,461;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407124;Ingleses Centro;Norte;23,4972;19,3813;82,4835
+C6;20;800/1500;aj_estimado;misto;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407126;Ingleses Sul;Norte;12,0821;1,5967;13,2154
+C6;20;800/1500;aj_estimado;misto;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407128;Capivari;Norte;82,8735;71,7642;86,5948
+C6;20;800/1500;aj_estimado;misto;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407137;Armação;Sul;11,0119;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407138;Açores;Sul;4,8269;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407141;Carianos;Sul;15,2513;12,8428;84,2079
+C6;20;800/1500;aj_estimado;misto;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407147;Tapera da Base;Sul;30,013;23,7281;79,0594
+C6;20;800/1500;aj_estimado;misto;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C6;20;800/1500;aj_estimado;misto;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407001;Centro;Centro/Sede;148,9482;112,6213;75,6111
+C6;20;800/1500;aj_unitario;misto;4205407002;Agronômica;Centro/Sede;59,0667;13,0431;22,082
+C6;20;800/1500;aj_unitario;misto;4205407005;João Paulo;Centro/Sede;21,3521;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407006;Saco Grande;Centro/Sede;25,9292;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407009;Córrego Grande;Centro/Sede;44,494;23,3576;52,4961
+C6;20;800/1500;aj_unitario;misto;4205407010;Pantanal;Centro/Sede;22,3171;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407011;Costeira do Pirajubaé;Centro/Sede;27,1113;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407012;José Mendes;Centro/Sede;8,9266;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407016;Santa Mônica;Centro/Sede;4,9615;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407018;Estreito;Continente;30,6708;5,0526;16,4736
+C6;20;800/1500;aj_unitario;misto;4205407020;Coqueiros;Continente;42,5766;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407022;Itaguaçu;Continente;6,2912;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407023;Abraão;Continente;24,6138;19,9274;80,9603
+C6;20;800/1500;aj_unitario;misto;4205407026;Jardim Atlântico;Continente;37,9427;10,8409;28,5718
+C6;20;800/1500;aj_unitario;misto;4205407027;Balneário;Continente;18,6691;12,5439;67,1907
+C6;20;800/1500;aj_unitario;misto;4205407028;Canto;Continente;21,4173;6,8593;32,0269
+C6;20;800/1500;aj_unitario;misto;4205407029;Capoeiras;Continente;53,6519;24,3628;45,409
+C6;20;800/1500;aj_unitario;misto;4205407030;Monte Cristo;Continente;24,9461;24,9461;100,0
+C6;20;800/1500;aj_unitario;misto;4205407031;Coloninha;Continente;12,9604;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407083;Saco dos Limões;Centro/Sede;48,5259;4,7244;9,7358
+C6;20;800/1500;aj_unitario;misto;4205407086;Trindade;Centro/Sede;68,4711;50,0531;73,1011
+C6;20;800/1500;aj_unitario;misto;4205407087;Itacorubi;Centro/Sede;80,2643;26,1861;32,6248
+C6;20;800/1500;aj_unitario;misto;4205407088;Monte Verde;Centro/Sede;19,4099;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407089;Bom Abrigo;Continente;4,5751;4,5751;100,0
+C6;20;800/1500;aj_unitario;misto;4205407090;Cachoeira do Bom Jesus;Norte;11,7106;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407091;Vargem Grande;Norte;14,2787;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407092;Vargem do Bom Jesus;Norte;17,4787;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407093;Jurerê;Norte;4,0444;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407094;Canto do Lamim;Norte;0,9846;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407095;Vargem de Fora;Norte;5,4917;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407096;Vargem Pequena;Norte;6,7866;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407097;Recanto dos Açores;Norte;2,7073;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407098;Rio Vermelho;Leste;77,9652;34,5951;44,3725
+C6;20;800/1500;aj_unitario;misto;4205407099;Rio Tavares do Norte;Sul;9,5309;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407100;Lagoa Pequena;Sul;10,9855;8,6956;79,1553
+C6;20;800/1500;aj_unitario;misto;4205407101;Rio Tavares Central;Sul;18,5905;12,3078;66,2046
+C6;20;800/1500;aj_unitario;misto;4205407102;Campeche Central;Sul;21,3908;7,3707;34,4573
+C6;20;800/1500;aj_unitario;misto;4205407103;Campeche Leste;Sul;18,8613;14,0796;74,6481
+C6;20;800/1500;aj_unitario;misto;4205407104;Autódromo;Sul;4,1499;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407105;Moenda;Sul;7,779;2,3214;29,842
+C6;20;800/1500;aj_unitario;misto;4205407106;Ressacada;Sul;11,3554;11,3554;100,0
+C6;20;800/1500;aj_unitario;misto;4205407107;Base Aérea;Sul;1,5019;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407109;Morro do Peralta;Sul;2,7568;2,7548;99,9292
+C6;20;800/1500;aj_unitario;misto;4205407110;Barra da Lagoa;Leste;16,9688;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407111;Praia Brava;Norte;1,0563;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407112;Ponta das Canas;Norte;12,0658;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407113;Lagoinha do Norte;Norte;1,5243;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407114;Cachoeira do Bom Jesus Leste;Norte;14,4584;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407115;Campeche Norte;Sul;17,0406;11,3311;66,4947
+C6;20;800/1500;aj_unitario;misto;4205407116;Morro das Pedras;Sul;9,3519;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407117;Campeche Sul;Sul;22,3907;20,1421;89,9574
+C6;20;800/1500;aj_unitario;misto;4205407118;Pedrita;Sul;2,8811;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407119;Canasvieiras;Norte;35,1262;25,8318;73,54
+C6;20;800/1500;aj_unitario;misto;4205407120;Jurere Leste;Norte;18,4246;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407121;Jurere Oeste;Norte;11,0676;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407122;Forte;Norte;0,461;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407123;Daniela;Norte;3,7615;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407124;Ingleses Centro;Norte;23,4972;19,3813;82,4835
+C6;20;800/1500;aj_unitario;misto;4205407125;Ingleses Norte;Norte;7,7261;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407126;Ingleses Sul;Norte;12,0821;1,5967;13,2154
+C6;20;800/1500;aj_unitario;misto;4205407127;Santinho;Norte;13,6405;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407128;Capivari;Norte;82,8735;71,7642;86,5948
+C6;20;800/1500;aj_unitario;misto;4205407129;Lagoa;Leste;19,8905;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407130;Canto dos Araçás;Leste;2,3252;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407131;Canto da Lagoa;Leste;4,034;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407132;Porto da Lagoa;Leste;9,652;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407133;Dunas da Lagoa;Leste;1,0499;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407134;Retiro;Leste;3,3427;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407135;Praia Mole;Leste;0,7811;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407136;Pântano do Sul;Sul;9,1886;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407137;Armação;Sul;11,0119;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407138;Açores;Sul;4,8269;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407139;Rio das Pacas;Sul;0,7742;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407140;Ratones;Norte;8,7776;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407141;Carianos;Sul;15,2513;12,8428;84,2079
+C6;20;800/1500;aj_unitario;misto;4205407142;Alto Ribeirão;Sul;8,1168;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407143;Ribeirão da Ilha;Sul;4,4576;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407144;Costeira do Ribeirão;Sul;2,1459;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407145;Caiacanga;Sul;3,2003;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407146;Tapera;Sul;1,9688;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407147;Tapera da Base;Sul;30,013;23,7281;79,0594
+C6;20;800/1500;aj_unitario;misto;4205407148;Caieira;Sul;0,7597;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407149;Santo Antônio;Norte;7,4843;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407150;Cacupé;Norte;5,9513;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407151;Sambaqui;Norte;6,0932;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407152;Barra do Sambaqui;Norte;5,4658;0,0;0,0
+C6;20;800/1500;aj_unitario;misto;4205407153;Alto Ribeirão Leste;Sul;11,9959;0,0;0,0

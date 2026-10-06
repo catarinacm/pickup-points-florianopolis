@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Se usar este código ou estes dados, cite o trabalho abaixo. / If you use this code or data, please cite the work below."
+title: "Localização de pickup points em Florianópolis: código e dados"
+type: software
+version: "1.0"
+date-released: "2026-10-06"
+license: MIT
+repository-code: "https://github.com/catarinacm/pickup-points-florianopolis"
+authors:
+  - family-names: "Miguel"
+    given-names: "Catarina Corrêa"
+keywords:
+  - pickup points
+  - last mile
+  - p-median problem
+  - facility location
+  - e-commerce
+  - Florianópolis
+preferred-citation:
+  type: thesis
+  title: "Localização de pickup points em áreas urbanas: método baseado no problema das p-medianas e aplicação ao caso de Florianópolis"
+  authors:
+    - family-names: "Miguel"
+      given-names: "Catarina Corrêa"
+  year: 2026
+  thesis-type: "Trabalho de Conclusão de Curso (Graduação)"
+  institution:
+    name: "Universidade Federal de Santa Catarina"
+  department: "Engenharia de Produção Civil"

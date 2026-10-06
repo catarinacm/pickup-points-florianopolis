@@ -1,0 +1,7 @@
+raio_m;metrica;pares_elegiveis;pct_pares;pontos_cobriveis;pontos_sem_candidato;teto_cobertura_pct;candidatos_uteis;candidatos_sem_bairro
+500;walk;2290;0,278;609;355;65,0;704;152
+500;euclid;6418;0,778;840;124;91,15;835;21
+800;walk;5726;0,694;801;163;86,14;815;41
+800;euclid;13768;1,668;911;53;97,39;854;2
+1500;drive;15019;1,82;922;42;98,0;848;8
+1500;euclid;36346;4,405;951;13;99,4;856;0

@@ -1,0 +1,2 @@
+execucoes;matriz_principal;sensibilidade_alpha_beta;equidade_beta0;cross_check;tempo_parede_s;tempo_solver_s;todas_otimas;candidatos
+42;22;9;5;6;763,6;757,6;True;dados/tratados/candidatos_com_aj.gpkg
