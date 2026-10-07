@@ -113,11 +113,12 @@ def main() -> int:
 
     if not listar:
         print()
-        print("ATENCAO: src/01_demanda.py espera os agregados SEM a data no nome:")
+        print("Conferido em 06/10/2026: os arquivos descompactados chegam com os nomes que")
+        print("src/01_demanda.py espera (sem a data da revisao). Se uma revisao futura do IBGE")
+        print("trouxer a data no nome do .csv ou do .xlsx, renomear para:")
         print("   data/brutos/ibge/Agregados_por_setores_basico_BR.csv")
         print("   data/brutos/ibge/Agregados_por_bairros_basico_BR.csv")
         print("   data/brutos/ibge/Agregados_por_setores_renda_responsavel_BR.xlsx")
-        print("Se o arquivo descompactado trouxer a data da revisao no nome, renomear.")
     return 1 if falhas else 0
 
 
